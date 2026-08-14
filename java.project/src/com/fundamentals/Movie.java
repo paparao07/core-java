@@ -8,7 +8,7 @@ public class Movie {
 
 	public static void main(String[] args) {
 		
-		System.out.println("*************Welcome To Telugu Movies**************");
+		System.out.println("**********Welcome To Telugu Movies************");
 		
 		Movie m1 = new Movie();
 		
